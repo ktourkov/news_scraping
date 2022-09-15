@@ -1,1 +1,1 @@
-# news_scraping
+# Basic Web Scraping of News Websites
